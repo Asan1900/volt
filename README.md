@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Volt
 Volt is a solar tracker designed to assist users in finding the optimal location for harnessing solar energy. By leveraging advanced algorithms, Volt helps users identify the best positions for maximizing sunlight exposure and enhancing energy production.
 
@@ -25,3 +26,6 @@ Volt will start running and provide you with the final result for the Almaty loc
 Remember to customize the location settings within the main.py file to suit your specific requirements. You can modify the latitude, longitude, and other parameters to explore different regions and evaluate their solar energy potential.
 
 Harness the power of Volt and make a positive impact by utilizing renewable energy resources effectively. Together, let's create a cleaner and more sustainable future.
+=======
+# volt
+>>>>>>> origin/main
